@@ -1,0 +1,27 @@
+language: go
+
+go:
+  - 1.6
+
+env:
+  global:
+    - ENCRYPTION_LABEL: 308f472e34e3
+    - COMMIT_AUTHOR_EMAIL: guillermo@guerreroibarra.com
+
+install:
+  - go get -v github.com/spf13/hugo
+  - pip install Pygments --user
+
+before_script:
+  - mkdir themes
+  - git clone --depth 1 https://github.com/ryanfox1985/hugo-orbit-theme.git themes/hugo-orbit-theme/
+
+script:
+  - hugo
+
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: bash ./deploy.sh
+  on:
+    branch: master
