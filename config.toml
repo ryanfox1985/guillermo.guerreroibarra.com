@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://guillermo.guerreroibarra.com"
+baseURL = "https://guillermo.guerreroibarra.com/"
 languageCode = "en"
 title = "Guillermo Guerrero Ibarra"
 theme = "hugo-devresume-theme"
@@ -34,9 +34,9 @@ googleAnalytics = "UA-57386726-5"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/React"
+        details = "JavaScript/ReactJS"
         [[params.skills.list.items]]
-        details = "Python/Ruby/Go"
+        details = "Ruby/Python/Go"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
         [[params.skills.list.items]]
@@ -124,7 +124,7 @@ googleAnalytics = "UA-57386726-5"
         details = "RoR, Scala and ReactJS"
         
         [[params.experience.list]]
-        title = "Lead Software Developer"
+        title = "Lead Developer"
         dates = "March, 2017 - June, 2021"
         company = "FCM Travel Solutions France"
         details = ""
@@ -180,20 +180,20 @@ googleAnalytics = "UA-57386726-5"
         details="Java, Python, Ruby"
 
         [[params.experience.list]]
-        title = "Software Developer and Sys Admin"
+        title = "Software Developer"
         dates = "December, 2009 – October, 2011"
         company = "Viajes para ti"
-        details=""
+        details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the sumer offers Adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the oportunity to rebuild the site from scratch."
         [[params.experience.list.items]]
         details="PHP"
 
         [[params.experience.list]]
-        title = "Software Developer and Sys Admin"
+        title = "Software Developer"
         dates = "February, 2008 – September, 2009"
         company = "Emdep"
-        details=""
+        details="Emdep is a key player in the automotive industry, the company develops software to test control equipment for electric components in vehicles. Also does physical equipment’s to test fuse boxes, harness connectivity, etc. I joined the computer vision team, I mounted and prepared vision equipments and I had the oportunity to setup up these equipments to customer sites."
         [[params.experience.list.items]]
-        details="Visual Basic and .net c#"
+        details="Visual Basic and .NET C#"
 
     [params.projects]
         enable = false
@@ -238,3 +238,7 @@ googleAnalytics = "UA-57386726-5"
         icon = "fab fa-linkedin"
         url = "https://www.linkedin.com/in/guillermoguerreroibarra"
         title = "@guillermogue"
+        [[params.social.list]]
+        icon = "fab fa-strava"
+        url = "https://www.strava.com/athletes/31721949"
+        title = "@guillermo"
