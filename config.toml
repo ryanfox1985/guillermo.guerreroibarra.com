@@ -34,7 +34,7 @@ googleAnalytics = "UA-57386726-5"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/ReactJS"
+        details = "JavaScript/ReactJS/react-native"
         [[params.skills.list.items]]
         details = "Ruby/Python/Go"
         [[params.skills.list.items]]
@@ -110,7 +110,7 @@ googleAnalytics = "UA-57386726-5"
 
     [params.summary]
         enable = true
-        text = "I am passionate about new technologies and everything that moves around software. I enjoy making efficient clean code and improving my skills as a programmer. In the last years I have been mainly working in web services also I enjoy with DevOps. Whenever I have some time off I enjoy with my personals projects, running, watching TV series and travelling to discover new places and cultures."
+        text = "I am passionate about new technologies and everything that moves around software. I enjoy making efficient clean code and improving my skills as a programmer. In the last years I have been mainly working in web services also I enjoy with DevOps. Whenever I have some time off I enjoy with my personals projects, running, watching TV shows and travelling to discover new places and cultures."
 
     [params.experience]
         enable = true
@@ -140,7 +140,7 @@ googleAnalytics = "UA-57386726-5"
         details = "RoR and Heroku"
 
         [[params.experience.list]]
-        title = "RoR backend developer (P/T Contractor)"
+        title = "RoR developer (P/T Contractor)"
         dates = "March, 2017 – August 2017"
         company = "Charplanet (Nisgo)"
         details = ""
@@ -175,15 +175,15 @@ googleAnalytics = "UA-57386726-5"
         title = "Software Developer"
         dates = "October, 2011 – July, 2013"
         company = "AST Research Group (URV)"
-        details=""
+        details="AST Research Group belongs to Universitat Rovira i Virgili, this group is focused in distributed systems. I joined in the context of Real Cloud Project to offer a storage service solution like Dropbox using OpenStack Swift. During my journey at the group I did my final bachelor project."
         [[params.experience.list.items]]
-        details="Java, Python, Ruby"
+        details="Java, Python and Ruby"
 
         [[params.experience.list]]
         title = "Software Developer"
         dates = "December, 2009 – October, 2011"
         company = "Viajes para ti"
-        details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the sumer offers Adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the oportunity to rebuild the site from scratch."
+        details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the sumer offers Adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the oportunity to rebuild the website from scratch."
         [[params.experience.list.items]]
         details="PHP"
 
@@ -242,3 +242,6 @@ googleAnalytics = "UA-57386726-5"
         icon = "fab fa-strava"
         url = "https://www.strava.com/athletes/31721949"
         title = "@guillermo"
+
+    [params.footer]
+        copyright = " "
