@@ -116,7 +116,7 @@ googleAnalytics = "UA-57386726-5"
         enable = true
 
         [[params.experience.list]]
-        title = "Software Engineer"
+        title = "Lead Developer"
         dates = "June, 2021 - Present"
         company = "Deliveroo"
         details = ""
@@ -148,10 +148,10 @@ googleAnalytics = "UA-57386726-5"
         details = "RoR, ReactJS, MongoDB and AWS"
 
         [[params.experience.list]]
-        title = "Software Developer"
+        title = "Lead Developer"
         dates = "March, 2016 - March, 2017"
         company = "AirRefund"
-        details=""
+        details="AirRefund was a startup offering a claim service for flight disruptions using the EU flight compensation regulation. The startup has two websites one for the clients to push their claims and another one internal for the agents to able to process these claims. I developed new features to improve the clients experience and also the agents productivity."
         [[params.experience.list.items]]
         details = "RoR, ReactJS, Heroku and AWS"
 
@@ -159,23 +159,23 @@ googleAnalytics = "UA-57386726-5"
         title = "Software Developer"
         dates = "April, 2015 – March, 2016"
         company = "Freelance"
-        details=""
+        details="I worked as a freelancer for some software consultancies."
         [[params.experience.list.items]]
         details = "RoR, ReactJS, Angular, ElasticSearch, Vagrant, Chef, Ansible and Docker"
 
         [[params.experience.list]]
-        title = "Software Developer"
+        title = "RoR Developer"
         dates = "August, 2013 – April, 2015"
         company = "Simpple"
-        details=""
+        details="Simpple is a software consultancy and offers software developed using Ruby on Rails."
         [[params.experience.list.items]]
         details = "RoR, Vagrant and Chef"
 
         [[params.experience.list]]
         title = "Software Developer"
         dates = "October, 2011 – July, 2013"
-        company = "AST Research Group (URV)"
-        details="AST Research Group belongs to Universitat Rovira i Virgili, this group is focused in distributed systems. I joined in the context of Real Cloud Project to offer a storage service solution like Dropbox using OpenStack Swift. During my journey at the group I did my final bachelor project."
+        company = "AST Research Group - URV (Cloudlab)"
+        details="AST Research Group belongs to Universitat Rovira i Virgili, this group is focused in distributed systems. I joined in the context of Real Cloud Project to offer a storage service solution using OpenStack Swift for small companies like Dropbox. During my journey at the group I did my final bachelor project."
         [[params.experience.list.items]]
         details="Java, Python and Ruby"
 
@@ -183,7 +183,7 @@ googleAnalytics = "UA-57386726-5"
         title = "Software Developer"
         dates = "December, 2009 – October, 2011"
         company = "Viajes para ti"
-        details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the sumer offers Adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the oportunity to rebuild the website from scratch."
+        details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the sumer offers Adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the opportunity to rebuild the website from scratch."
         [[params.experience.list.items]]
         details="PHP"
 
@@ -191,7 +191,7 @@ googleAnalytics = "UA-57386726-5"
         title = "Software Developer"
         dates = "February, 2008 – September, 2009"
         company = "Emdep"
-        details="Emdep is a key player in the automotive industry, the company develops software to test control equipment for electric components in vehicles. Also does physical equipment’s to test fuse boxes, harness connectivity, etc. I joined the computer vision team, I mounted and prepared vision equipments and I had the oportunity to setup up these equipments to customer sites."
+        details="Emdep is a key player in the automotive industry, the company develops software to test control equipment for electric components in vehicles. Also does physical equipment’s to test fuse boxes, harness connectivity, etc. I joined the computer vision team, I mounted and prepared vision equipments and I had the opportunity to setup up these equipments to customer sites."
         [[params.experience.list.items]]
         details="Visual Basic and .NET C#"
 
