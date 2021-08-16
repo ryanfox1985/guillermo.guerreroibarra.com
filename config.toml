@@ -34,9 +34,9 @@ googleAnalytics = "UA-57386726-5"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/ReactJS/react-native"
-        [[params.skills.list.items]]
         details = "Ruby/Python/Go"
+        [[params.skills.list.items]]
+        details = "JavaScript/ReactJS/react-native"
         [[params.skills.list.items]]
         details = "PostgreSQL/MySQL"
         [[params.skills.list.items]]
@@ -135,7 +135,7 @@ googleAnalytics = "UA-57386726-5"
         title = "RoR backend developer (P/T Contractor)"
         dates = "March, 2019"
         company = "ADL Partner Hispania"
-        details = ""
+        details = "ADL Partner Hispania has a fidelity and ERP software. I developed new features for the API."
         [[params.experience.list.items]]
         details = "RoR and Heroku"
 
@@ -143,15 +143,15 @@ googleAnalytics = "UA-57386726-5"
         title = "RoR developer (P/T Contractor)"
         dates = "March, 2017 – August 2017"
         company = "Charplanet (Nisgo)"
-        details = ""
+        details = "Charplanet is a startup to offer a advertisement screen service to companies. This service allows to companies to decide which advertisement render in their screens, these campaigns can be configured using some variables like time, localization, people around, etc. I developed new features and introduced ReactJS to this service."
         [[params.experience.list.items]]
         details = "RoR, ReactJS, MongoDB and AWS"
 
         [[params.experience.list]]
-        title = "Lead Developer"
+        title = "Software Developer"
         dates = "March, 2016 - March, 2017"
         company = "AirRefund"
-        details="AirRefund was a startup offering a claim service for flight disruptions using the EU flight compensation regulation. The startup has two websites one for the clients to push their claims and another one internal for the agents to able to process these claims. I developed new features to improve the clients experience and also the agents productivity."
+        details="AirRefund is a startup from FCM Travel Solutions group offering a claim service for flight disruptions using the EU flight compensation regulation. The startup has two websites one for the clients to push their claims and another internal for the agents to able to process these claims. I developed new features to improve the clients experience and also the agents productivity."
         [[params.experience.list.items]]
         details = "RoR, ReactJS, Heroku and AWS"
 
@@ -167,7 +167,7 @@ googleAnalytics = "UA-57386726-5"
         title = "RoR Developer"
         dates = "August, 2013 – April, 2015"
         company = "Simpple"
-        details="Simpple is a software consultancy and offers software developed using Ruby on Rails."
+        details="Simpple is a software consultancy and offers software developed using Ruby on Rails to different clients."
         [[params.experience.list.items]]
         details = "RoR, Vagrant and Chef"
 
