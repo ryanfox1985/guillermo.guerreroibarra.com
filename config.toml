@@ -159,9 +159,9 @@ googleAnalytics = "UA-57386726-5"
         title = "Software Developer"
         dates = "April 2015 – March 2016"
         company = "Freelance"
-        details="I worked as a freelancer for some software consultancies."
+        details="I worked as a freelancer for some software consultancies, during these time I learned about Ruby on Rails, Django, react-native and DevOps."
         [[params.experience.list.items]]
-        details = "RoR, ReactJS, Angular, ElasticSearch, Vagrant, Chef, Ansible and Docker"
+        details = "RoR, ReactJS, react-native, Angular, ElasticSearch, Vagrant, Chef, Ansible and Docker"
 
         [[params.experience.list]]
         title = "RoR Developer"
@@ -174,8 +174,8 @@ googleAnalytics = "UA-57386726-5"
         [[params.experience.list]]
         title = "Software Developer"
         dates = "October 2011 – July 2013"
-        company = "AST Research Group - URV (Cloudlab)"
-        details="AST Research Group belongs to Universitat Rovira i Virgili, this group is focused on create software for distributed systems. I joined in the context of Real Cloud Project to offer a storage service solution using OpenStack Swift for small companies like Dropbox. During my journey at the group, I did my final bachelor project."
+        company = "AST Research Group (Cloudlab)"
+        details="AST Research Group belongs to Universitat Rovira i Virgili, this group is focused on create software for distributed systems. I joined in the context of Real Cloud Project to offer a storage service multi-platform solution using OpenStack Swift for small companies like Dropbox. During my journey at the group, I did my final bachelor project."
         [[params.experience.list.items]]
         details="Java, Python and Ruby"
 
@@ -184,6 +184,22 @@ googleAnalytics = "UA-57386726-5"
         dates = "December 2009 – October 2011"
         company = "Viajes para ti"
         details="Viajes para ti is a Spanish travel agency, the agency offers two distinguish experiences to travelers depending on the season, the agency during the winter offers Sky and Snowboard experiences and during the summer offers adventure packages. The agency has two main websites: [esquiades.com](https://esquiades.com) and [buscounchollo.com](https://buscounchollo.com). When I joined the development team, I developed small features to the old platform and in parallel I had the opportunity to rebuild the website from scratch."
+        [[params.experience.list.items]]
+        details="PHP"
+
+        [[params.experience.list]]
+        title = "Software Developer (P/T)"
+        dates = "February 2011 – April 2011"
+        company = "Universitat Rovira i Virgili"
+        details="URV has different departments, I worked for statistical department to develop statistical functions in PHP to integrate later with Moodle at Statistical course. The professors use this functions in classroom and to correct the statistical exams."
+        [[params.experience.list.items]]
+        details="PHP"
+
+        [[params.experience.list]]
+        title = "Software Developer (P/T)"
+        dates = "March 2010 – May 2010"
+        company = "Universitat Rovira i Virgili"
+        details="URV in collaboration with ASPACE built a web service to be able to create different questionnaires."
         [[params.experience.list.items]]
         details="PHP"
 
