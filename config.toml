@@ -127,7 +127,7 @@ googleAnalytics = "UA-57386726-5"
         title = "Lead Developer"
         dates = "March 2017 - June 2021"
         company = "FCM Travel Solutions, France"
-        details = "FCM Travel Solutions is the corporate travel business of the Flight Centre Travel Group. Provide different software solutions for companies and their employees like customized company dashboards, booking tools, approving system, etc. I joined to the development team (French division) and after a while I was promoted to lead developer with new responsibilities like taking decisions, design new software and assist newcomers."
+        details = "FCM Travel Solutions is the corporate travel business of the Flight Centre Travel Group. Provide different software solutions for companies and their employees like customized company dashboards, booking tools, approving system, etc. I joined to the development team (French division) and after a while I was promoted to lead developer with new responsibilities like taking decisions, design new software, infrastructure maintenance and assist newcomers."
         [[params.experience.list.items]]
         details = "RoR, Elixir (PoC, prototypes), Docker, Terraform, AWS, Ansible and Digital Ocean"
 
