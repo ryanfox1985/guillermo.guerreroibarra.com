@@ -110,7 +110,7 @@ googleAnalytics = "UA-57386726-5"
 
     [params.summary]
         enable = true
-        text = "I am passionate about new technologies and everything that moves around software. I enjoy making efficient, clean code and improving my skills as a programmer. In the last years I have been mainly working in web services also I enjoy with DevOps. Whenever I have some time off I enjoy with my personals projects, running, watching TV shows and travelling to discover new places and cultures."
+        text = "I am passionate about new technologies and everything that moves around software. I enjoy making efficient, clean code and improving my skills as a programmer. In the last years I have been mainly working in web services also I enjoy with DevOps. Whenever I have some time off I enjoy with my personal projects, running, watching TV shows and traveling to discover new places and cultures."
 
     [params.experience]
         enable = true
