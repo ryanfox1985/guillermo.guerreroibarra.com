@@ -121,7 +121,7 @@ googleAnalytics = "UA-57386726-5"
         company = "Deliveroo"
         details = "Deliveroo is a British online food delivery company and operates in several countries. I joined financial integrity team."
         [[params.experience.list.items]]
-        details = "RoR, Scala and ReactJS"
+        details = "RubyOnRails, Scala, Golang and ReactJS"
         
         [[params.experience.list]]
         title = "Lead Developer"
@@ -129,7 +129,7 @@ googleAnalytics = "UA-57386726-5"
         company = "FCM Travel Solutions, France"
         details = "FCM Travel Solutions is the corporate travel business of the Flight Centre Travel Group. Provide different software solutions for companies and their employees like customized company dashboards, booking tools, approving system, etc. I joined to the development team (French division) and after a while I was promoted to lead developer with new responsibilities like taking decisions, design new software, infrastructure maintenance and assist newcomers."
         [[params.experience.list.items]]
-        details = "RoR, Elixir (PoC, prototypes), Docker, Terraform, AWS, Ansible and Digital Ocean"
+        details = "RubyOnRails, Elixir (PoC, prototypes), Docker, Terraform, AWS, Ansible and Digital Ocean"
 
         [[params.experience.list]]
         title = "RoR backend developer (P/T Contractor)"
@@ -137,7 +137,7 @@ googleAnalytics = "UA-57386726-5"
         company = "ADL Partner Hispania"
         details = "ADL Partner Hispania is a Spanish company offering a fidelity and ERP software. I developed new features for this software, new endpoints and functionality to the API."
         [[params.experience.list.items]]
-        details = "RoR and Heroku"
+        details = "RubyOnRails and Heroku"
 
         [[params.experience.list]]
         title = "RoR developer (P/T Contractor)"
@@ -145,7 +145,7 @@ googleAnalytics = "UA-57386726-5"
         company = "Charplanet (Nisgo)"
         details = "Charplanet is an Asiatic startup and offers an advertisement screen service to companies. This service allows to companies to decide which advertisement render in their screens, these campaigns can be configured using some variables like time, localization, people around, etc. I developed new features and introduced ReactJS to this service."
         [[params.experience.list.items]]
-        details = "RoR, ReactJS, MongoDB and AWS"
+        details = "RubyOnRails, ReactJS, MongoDB and AWS"
 
         [[params.experience.list]]
         title = "Software Developer"
@@ -153,7 +153,7 @@ googleAnalytics = "UA-57386726-5"
         company = "AirRefund"
         details="AirRefund is a startup from FCM Travel Solutions group offering a claim service for flight disruptions using the EU flight compensation regulation. The startup has two websites, one for the clients to push their claims and another internal for the agents to be able to process these claims. I developed new features to improve the client's experience and also the agent's productivity."
         [[params.experience.list.items]]
-        details = "RoR, ReactJS, Heroku and AWS"
+        details = "RubyOnRails, ReactJS, Heroku and AWS"
 
         [[params.experience.list]]
         title = "Software Developer"
@@ -161,7 +161,7 @@ googleAnalytics = "UA-57386726-5"
         company = "Freelance"
         details="I worked as a freelancer for some software consultancies, during these time I learned about Ruby on Rails, Django, react-native and DevOps."
         [[params.experience.list.items]]
-        details = "RoR, ReactJS, react-native, Angular, ElasticSearch, Vagrant, Chef, Ansible and Docker"
+        details = "RubyOnRails, ReactJS, react-native, Angular, ElasticSearch, Vagrant, Chef, Ansible and Docker"
 
         [[params.experience.list]]
         title = "RoR Developer"
@@ -169,7 +169,7 @@ googleAnalytics = "UA-57386726-5"
         company = "Simpple"
         details="Simpple is a Spanish software consultancy and offers software developed using Ruby on Rails to different clients."
         [[params.experience.list.items]]
-        details = "RoR, Vagrant and Chef"
+        details = "RubyOnRails, Vagrant and Chef"
 
         [[params.experience.list]]
         title = "Software Developer"
