@@ -106,7 +106,7 @@ googleAnalytics = "UA-57386726-5"
         [[params.interests.list]]
         name = "TV Shows"
         [[params.interests.list]]
-        name = "Travelling"
+        name = "Traveling"
 
     [params.summary]
         enable = true
@@ -117,7 +117,15 @@ googleAnalytics = "UA-57386726-5"
 
         [[params.experience.list]]
         title = "Software Developer"
-        dates = "June 2021 - Present"
+        dates = "November 2022 - Present"
+        company = "Telleroo"
+        details = "Telleroo is a payment automation platform that removes the payment anxiety from your finance teams. It shows high risk changes, failed payments and syncs directly with Xero accounting software. I joined as a full stack developer."
+        [[params.experience.list.items]]
+        details = "RubyOnRails, Golang, Elixir, AngularJS and AWS"
+
+        [[params.experience.list]]
+        title = "Software Developer"
+        dates = "June 2021 - November 2022"
         company = "Deliveroo"
         details = "Deliveroo is a British online food delivery company and operates in several countries. I joined financial integrity team."
         [[params.experience.list.items]]
@@ -241,7 +249,7 @@ googleAnalytics = "UA-57386726-5"
 
         [[params.information.list]]
         title = "Interests"
-        details = "Climbing, Snowboarding, Photography, Travelling"
+        details = "Climbing, Snowboarding, Photography, Traveling"
 
     [params.social]
         enable = true
